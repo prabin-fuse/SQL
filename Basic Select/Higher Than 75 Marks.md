@@ -5,13 +5,13 @@ Query the Name of any student in STUDENTS who scored higher than  Marks. Order y
 #### Input Format
 
 The STUDENTS table is described as follows:
-![alt text](images\1443815243-94b941f556-1.png)
+![alt text](images/1443815243-94b941f556-1.png)
 
 The Name column only contains uppercase (A-Z) and lowercase (a-z) letters.
 
 #### Sample Input
 
-![alt text](images\1443815209-cf4b260993-2.png)
+![alt text](images/1443815209-cf4b260993-2.png)
 
 #### Sample Output
 

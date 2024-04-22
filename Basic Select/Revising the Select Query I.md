@@ -4,7 +4,7 @@ Query all columns for all American cities in the CITY table with populations lar
 
 The CITY table is described as follows:
 
-![CITY Table](images\1449729804-f21d187d0f-CITY.jpg)
+![CITY Table](images/1449729804-f21d187d0f-CITY.jpg)
 
 [Question link](https://www.hackerrank.com/challenges/revising-the-select-query/problem)
 
