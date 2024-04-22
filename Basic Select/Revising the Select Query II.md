@@ -6,7 +6,7 @@ The CITY table is described as follows:
 
 [Link to the problem](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem?isFullScreen=true)
 
-![CITY Table](1449729804-f21d187d0f-CITY.jpg)
+![CITY Table](images\1449729804-f21d187d0f-CITY.jpg)
 
 ### Solution:
 

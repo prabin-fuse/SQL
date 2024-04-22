@@ -1,0 +1,38 @@
+### We will focus on the following topic for this chapter: 
+- Introduction to DBMS, data modeling and SQL (Basic Theory, Information, and usage)
+- DBMS components: info on database, schema, tables and their creation"
+- Installation of MYSQL workbench
+- Use dataset in workbench and learn CRUD operations
+- Comparison operators
+- Logical operators
+- LIKE, IN, BETWEEN
+- IS NULL
+- AND, OR, NOT
+- ORDER BY
+- COUNT
+- SUM
+- MIN/MAX
+- AVG
+- GROUP BY, HAVING
+- CASE
+- DISTINCT
+- SQL Joins (INNER, OUTER, LEFT, RIGHT)
+- UNION
+- Database connection using Python
+
+### Complete the assignment under this title: 
+- Revising the Select Query I
+- Select All
+- Select By ID
+- Japanese Cities' Attributes
+- Japanese Cities' Names
+- Weather Observation Station 1
+- Higher Than 75 Marks
+- Employee Names
+- Employee Salaries
+- Revising Aggregations - The Count Function
+- Revising Aggregations - The Sum Function
+- Average Population
+- Japan Population
+- Average Population of Each Continent
+- Top Earners
